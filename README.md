@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
     <h1>This is Suvadeep Roy, Welcome to My Portfolio</h1>
